@@ -1446,11 +1446,11 @@
 			"name": "MiniMax M3",
 			"swe_score": null,
 			"cost_per_1m_tokens": {
-				"input": 1.0,
-				"output": 5.5
+				"input": 0.6,
+				"output": 2.4
 			},
 			"allowed_roles": ["main", "fallback", "research"],
-			"max_tokens": 204800,
+			"max_tokens": 128000,
 			"supported": true
 		},
 		{

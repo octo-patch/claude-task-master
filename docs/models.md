@@ -123,7 +123,7 @@
 | bedrock     | us.anthropic.claude-3-5-haiku-20241022-v1:0    | 0.4       | 0.8        | 4           |
 | bedrock     | us.anthropic.claude-opus-4-20250514-v1:0       | 0.725     | 15         | 75          |
 | bedrock     | us.anthropic.claude-sonnet-4-20250514-v1:0     | 0.727     | 3          | 15          |
-| minimax     | MiniMax-M3                                     | —         | 1          | 5.5         |
+| minimax     | MiniMax-M3                                     | —         | 0.6        | 2.4         |
 | minimax     | MiniMax-M2.7                                   | —         | 1          | 5.5         |
 | minimax     | MiniMax-M2.7-highspeed                         | —         | 1          | 5.5         |
 
@@ -176,7 +176,7 @@
 | bedrock     | us.anthropic.claude-opus-4-20250514-v1:0     | 0.725     | 15         | 75          |
 | bedrock     | us.anthropic.claude-sonnet-4-20250514-v1:0   | 0.727     | 3          | 15          |
 | bedrock     | us.deepseek.r1-v1:0                          | —         | 1.35       | 5.4         |
-| minimax     | MiniMax-M3                                   | —         | 1          | 5.5         |
+| minimax     | MiniMax-M3                                   | —         | 0.6        | 2.4         |
 | minimax     | MiniMax-M2.7                                 | —         | 1          | 5.5         |
 | minimax     | MiniMax-M2.7-highspeed                       | —         | 1          | 5.5         |
 
@@ -288,7 +288,7 @@
 | bedrock     | us.anthropic.claude-3-5-haiku-20241022-v1:0    | 0.4       | 0.8        | 4           |
 | bedrock     | us.anthropic.claude-opus-4-20250514-v1:0       | 0.725     | 15         | 75          |
 | bedrock     | us.anthropic.claude-sonnet-4-20250514-v1:0     | 0.727     | 3          | 15          |
-| minimax     | MiniMax-M3                                     | —         | 1          | 5.5         |
+| minimax     | MiniMax-M3                                     | —         | 0.6        | 2.4         |
 | minimax     | MiniMax-M2.7                                   | —         | 1          | 5.5         |
 | minimax     | MiniMax-M2.7-highspeed                         | —         | 1          | 5.5         |
 
